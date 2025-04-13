@@ -14,7 +14,7 @@ sudo apt install libjansson4
 
 ./liberty-miner --node IP:PORT
 
-Tested on 3xxx / 4xxx 
+Tested on RTX 3xxx / 4xxx / 5xxx
 
 5% Fees
 
