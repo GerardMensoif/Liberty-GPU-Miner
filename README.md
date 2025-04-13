@@ -5,9 +5,13 @@ GPU Miner for Liberty
 
 USAGE:
 
+wget https://github.com/GerardMensoif/Liberty-GPU-Miner/releases/download/0.0.1/liberty-miner
+
+chmod +x liberty-miner
+
 ./liberty-miner --node IP:PORT
 
-Tested on 3xxx / 4xxx / 5xxx
+Tested on 3xxx / 4xxx 
 
 5% Fees
 
