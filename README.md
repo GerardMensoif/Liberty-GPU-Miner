@@ -16,6 +16,9 @@ if missing:
 ```
 sudo apt install libjansson4 
 ```
+
+# Launch Miner
+
 ```
 ./liberty-miner --node IP:PORT
 ```
