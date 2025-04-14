@@ -5,8 +5,9 @@ GPU Miner for Liberty
 
 USAGE:
 
+```
 wget https://github.com/GerardMensoif/Liberty-GPU-Miner/releases/download/0.0.3/liberty-miner
-
+```
 chmod +x liberty-miner
 
 if missing:
