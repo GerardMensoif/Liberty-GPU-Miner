@@ -16,7 +16,7 @@ sudo apt install libjansson4
 
 Tested on RTX 3xxx / 4xxx / 5xxx
 
-5% Fees
+0% Fees
 
 ![liberty-miner](https://github.com/user-attachments/assets/21faceb9-2e20-4ebb-b7db-9b3d031c1cbc)
 ![liberty-miner2](https://github.com/user-attachments/assets/57a934ab-413a-462e-ae78-329f490c9375)
